@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I’m a Cloud Solutions Architect at Microsoft with 25+ years experience deploying and managing Microsoft technologies - focusing now on Azure Infrastructure.
+
 <!--
 **dsmithcloud/dsmithcloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
